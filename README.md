@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhampotter?tab=repositories](https://github.com/shubhampotter?tab=repositories)
 
-- 📫 How to reach me **shubhampotter12@gmail.com**
+- 📫 How to reach me **shubhamkshah@gmail.com**
 
 - 📄 Know about my experiences [[https://drive.google.com/drive/u/0/folders/1hcVdkWqx7SIr_ewZy1WE608BnU2kKiFn]](https://drive.google.com/drive/folders/1hcVdkWqx7SIr_ewZy1WE608BnU2kKiFn)(https://drive.google.com/drive/u/0/folders/1hcVdkWqx7SIr_ewZy1WE608BnU2kKiFn)
 
