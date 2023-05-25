@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham kumar</h1>
-<h3 align="center">A passionate Data scientist from India.</h3>
+<h3 align="center">Data Analyst @Cendrol Technologies.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/92949677/199949938-a193de88-0821-4575-a86c-483ebb2d639d.png" >
 
