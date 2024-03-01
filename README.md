@@ -3,13 +3,12 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/92949677/199949938-a193de88-0821-4575-a86c-483ebb2d639d.png" >
 
-<p align="left"> <a href="https://twitter.com/shubhampotter1" target="blank"><img src="https://img.shields.io/twitter/follow/shubhampotter1?logo=twitter&style=for-the-badge" alt="shubhampotter1" /></a> </p>
 
 - 🌱 I’m currently learning **Big Data, NLP , Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhampotter?tab=repositories](https://github.com/shubhampotter?tab=repositories)
 
-- 📫 How to reach me **shubhamkshah@gmail.com**
+- 📫 How to reach me **shubhamkshah@gmail.com** **919334508718**
 
 - 📄 Know about my experiences [[[https://drive.google.com/drive/u/0/folders/1hcVdkWqx7SIr_ewZy1WE608BnU2kKiFn](https://drive.google.com/drive/folders/1H1PCl6P4wqkHNTeL2lXpai1N1mjJjBnZ)]]
 - ⚡ Fun fact **I am a Dancer**
