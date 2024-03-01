@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham kumar</h1>
-<h3 align="center">Data Analyst @Cendrol Technologies.</h3>
+<h3 align="center">Data Analyst @Cendrol .</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/92949677/199949938-a193de88-0821-4575-a86c-483ebb2d639d.png" >
 
@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **shubhamkshah@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/drive/u/0/folders/1hcVdkWqx7SIr_ewZy1WE608BnU2kKiFn]](https://drive.google.com/drive/folders/1hcVdkWqx7SIr_ewZy1WE608BnU2kKiFn)(https://drive.google.com/drive/u/0/folders/1hcVdkWqx7SIr_ewZy1WE608BnU2kKiFn)
-
+- 📄 Know about my experiences [[[https://drive.google.com/drive/u/0/folders/1hcVdkWqx7SIr_ewZy1WE608BnU2kKiFn](https://drive.google.com/drive/folders/1H1PCl6P4wqkHNTeL2lXpai1N1mjJjBnZ)]]
 - ⚡ Fun fact **I am a Dancer**
 
 <h3 align="left">Connect with me:</h3>
